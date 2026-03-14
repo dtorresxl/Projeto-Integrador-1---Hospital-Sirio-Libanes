@@ -15,4 +15,5 @@ Danilo Willy [![GitHub](https://img.shields.io/badge/GitHub-@dtorresxl-0078D4?st
 Douglas Rafael [![GitHub](https://img.shields.io/badge/GitHub-@drogsd3-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/drogsd3)<br>
 Fabiane Motter <br>
 Felipe Maciel <br>
+João Ferreira <br>
 Marina Toledo <br>
